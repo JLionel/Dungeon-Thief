@@ -33,3 +33,6 @@ C++
   * UMG
   * Gamemode / Gamestate
   * Animation
+
+## Assets
+3D assets by [SyntyStudios](https://www.syntystudios.com/).
