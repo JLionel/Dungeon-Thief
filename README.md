@@ -13,7 +13,7 @@ C++
 
 ### Group
 [Lionel JANIN](https://github.com/JLionel)  
-[Matthias HAUGBERT](https://github.com/ImKogane)   
+[Matthias HEUGHEBAERT](https://github.com/ImKogane)   
 [Romain TANGUY](https://github.com/YuuSen)  
 
 ### Time to realize it
